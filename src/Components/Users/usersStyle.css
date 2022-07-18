@@ -1,0 +1,5 @@
+.singleUser:hover{
+    background-color: rgb(34, 11, 65);
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5px;
+}
